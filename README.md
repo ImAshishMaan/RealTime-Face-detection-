@@ -3,9 +3,8 @@
  <br>
  
  <h5>How to use:<h5>
- <br>
  <li>
-  clone this repository
-  open cmd in that folder.
-  type : python face_detection.py or python3 face_detection.py
+  clone this repository.<br>
+  open cmd in that folder.<br>
+  type : python face_detection.py or python3 face_detection.py<br>
  </li> 
