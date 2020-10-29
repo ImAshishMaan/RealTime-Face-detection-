@@ -6,8 +6,7 @@
 <ul>
   <li>
    clone this repository.<br></li>
-     <li>
-  open cmd in that folder.<br></li>
+     <li>  open cmd in that folder.<br></li>
     <li>
   type : python face_detection.py or python3 face_detection.py<br></li>
  <li>
